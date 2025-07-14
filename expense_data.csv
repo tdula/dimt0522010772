@@ -1,0 +1,1001 @@
+Date,Description,Amount,Category
+2023-06-05,Monthly prescription,98.48,Health
+2023-04-25,Monthly home decor,197.79,Shopping
+2023-05-17,Monthly beauty products,50.5,Shopping
+2023-11-30,Fresh produce from Local grocery,28.41,Groceries
+2023-11-20,Monthly concert tickets,103.73,Entertainment
+2023-12-22,Household supplies at Safeway,74.31,Groceries
+2023-05-09,Local grocery - organic food,187.92,Groceries
+2023-07-11,Gym - medical test,164.1,Health
+2023-05-18,Real estate office property service,226.8,Housing
+2023-03-12,Monthly toll,15.51,Transport
+2023-05-28,Monthly property service,132.03,Housing
+2023-05-03,Grocery shopping from Pizza Hut,99.65,Food
+2023-03-17,Local grocery - pet supplies,71.57,Groceries
+2023-12-10,Insurance provider disability insurance,221.55,Insurance
+2023-11-25,Insurance broker home insurance,283.81,Insurance
+2023-08-27,Monthly home insurance,350.62,Housing
+2023-01-09,Utility company waste management,49.97,Utilities
+2023-02-02,Housing authority - mortgage payment,1795.68,Housing
+2023-04-21,Shoes payment,46.55,Shopping
+2023-01-01,Monthly smartphone,555.83,Electronics
+2023-08-06,Wellness center - eye exam,66.29,Health
+2023-08-16,Auto shop - taxi,35.31,Transport
+2023-02-12,Target - laptop,674.37,Electronics
+2023-01-08,First aid supplies from Pharmacy,34.94,Health
+2023-03-26,Monthly sewer service,63.61,Utilities
+2023-05-25,Gas bill at Municipal services,80.25,Utilities
+2023-03-16,Monthly metro card,91.7,Transport
+2023-03-25,Online insurance travel insurance,22.65,Insurance
+2023-09-22,Life insurance from Insurance agent,92.7,Insurance
+2023-10-14,Insurance broker home insurance,68.33,Insurance
+2023-06-26,Computer accessories payment,78.84,Electronics
+2023-07-01,Airport - toll,15.85,Transport
+2024-01-10,Bulk shopping payment,274.7,Groceries
+2023-08-23,Stadium - gaming subscription,14.61,Entertainment
+2023-09-17,Laptop from Microsoft Store,1880.82,Electronics
+2024-01-25,Car wash from Gas station,39.92,Transport
+2023-05-14,Household supplies payment,88.96,Groceries
+2024-01-05,Dental checkup payment,319.62,Health
+2023-02-21,Insurance office - health insurance,144.56,Insurance
+2023-05-17,Food delivery payment,19.84,Food
+2023-08-24,Local retailer gaming console,374.49,Electronics
+2023-11-23,Monthly lunch,9.82,Food
+2024-01-20,Monthly computer accessories,137.23,Electronics
+2023-01-09,Rental insurance payment,31.78,Insurance
+2024-01-09,Water department waste management,33.53,Utilities
+2023-11-27,City utilities - cable tv,101.81,Utilities
+2023-03-24,Rental insurance from Insurance agent,71.51,Insurance
+2023-03-30,Aldi - baby supplies,123.06,Groceries
+2023-11-03,Theme park theme park,117.96,Entertainment
+2023-01-14,Property tax at Real estate office,1235.39,Housing
+2023-02-22,Medical center - eye exam,65.6,Health
+2023-03-25,Real estate office - home improvement,977.48,Housing
+2023-10-11,Energy service at Phone company,112.32,Utilities
+2023-02-16,Therapy session at Wellness center,105.29,Health
+2023-04-06,Fast food from Whole Foods,21.79,Food
+2023-05-22,Panera Bread lunch,9.49,Food
+2023-10-14,Pet supplies payment,57.96,Groceries
+2024-02-12,Burger King coffee shop,16.53,Food
+2023-06-27,Monthly water bill,33.77,Utilities
+2023-08-02,Maintenance company - property service,132.73,Housing
+2023-06-20,Water bill payment,68.59,Utilities
+2023-03-21,Food delivery at Starbucks,15.3,Food
+2023-06-15,Monthly vitamins,33.19,Health
+2023-03-23,Electricity bill at Municipal services,148.96,Utilities
+2024-02-20,Snacks and beverages at Trader Joe's,25.27,Groceries
+2023-12-20,Fresh produce from Whole Foods,21.31,Groceries
+2023-06-08,Monthly organic food,148.59,Groceries
+2024-01-22,Monthly rent payment,1818.56,Housing
+2024-02-26,Food delivery from Burger King,34.7,Food
+2024-02-15,Monthly eye exam,99.43,Health
+2023-07-01,Uber ride from Highway,41.76,Transport
+2023-08-15,Monthly netflix subscription,13.34,Entertainment
+2024-01-13,Eye care center health insurance,286.82,Health
+2023-01-10,Personal care payment,66.81,Shopping
+2023-04-29,City utilities internet bill,49.4,Utilities
+2023-02-22,Internet bill at City utilities,78.65,Utilities
+2023-06-01,Organic food payment,180.22,Groceries
+2023-04-24,Monthly fast food,5.92,Food
+2023-04-09,Monthly dental checkup,271.52,Health
+2023-02-25,Gaming console from Tech shop,383.51,Electronics
+2023-05-06,Snacks and beverages at Aldi,65.24,Groceries
+2023-05-18,Pizza Hut - coffee shop,4.64,Food
+2023-06-07,Phone company water bill,75.67,Utilities
+2023-06-21,Local restaurant lunch,12.92,Food
+2023-08-13,Online store gaming console,432.17,Electronics
+2023-07-15,Vitamins payment,39.94,Health
+2023-08-20,Pet insurance at Insurance broker,87.93,Insurance
+2023-11-17,Office supplies at Specialty shop,95.12,Shopping
+2023-08-14,Mall home decor,63.11,Shopping
+2023-10-08,Microsoft Store - computer accessories,177.89,Electronics
+2023-04-22,TV payment,529.8,Electronics
+2023-01-28,Music streaming payment,12.41,Entertainment
+2023-01-26,Gym - eye exam,163.18,Health
+2023-09-12,Monthly waste management,37.04,Utilities
+2024-01-19,Department store - office supplies,88.52,Shopping
+2023-09-13,Monthly music streaming,5.11,Entertainment
+2023-06-02,Furniture at Outlet,387.7,Shopping
+2023-01-20,Snacks from Starbucks,13.89,Food
+2023-03-01,Grocery shopping at Trader Joe's,66.1,Food
+2023-07-22,Housing authority - maintenance,521.45,Housing
+2023-12-28,Outlet accessories,48.57,Shopping
+2024-01-12,Headphones at Online store,32.69,Electronics
+2023-06-13,Insurance office home insurance,289.47,Insurance
+2024-01-16,Electricity bill at Cable provider,81.26,Utilities
+2023-04-17,Pet supplies from Trader Joe's,50.96,Groceries
+2023-12-20,Target meat and dairy,31.19,Groceries
+2023-03-15,Eye exam payment,93.09,Health
+2023-10-20,Monthly life insurance,179.89,Insurance
+2023-02-20,Train ticket at Downtown,49.26,Transport
+2023-11-24,Car insurance payment,131.39,Insurance
+2023-11-12,Eye care center - health insurance,320.68,Health
+2024-01-26,Housing authority - property service,291.21,Housing
+2023-08-18,Vision insurance at Insurance broker,70.92,Insurance
+2023-02-27,Housing authority - property service,451.48,Housing
+2024-01-13,Monthly food delivery,36.93,Food
+2024-01-18,Monthly book purchase,43.86,Entertainment
+2023-01-05,Bus ticket payment,6.24,Transport
+2023-01-17,Health insurance at Insurance provider,439.94,Insurance
+2023-02-14,Medical center medical test,76.79,Health
+2023-09-10,Electricity bill payment,166.42,Utilities
+2023-10-18,Maintenance company - property service,206.24,Housing
+2023-12-08,Netflix subscription payment,18.65,Entertainment
+2023-07-10,Sports equipment at Outlet,216.12,Shopping
+2023-04-29,Monthly utility deposit,269.56,Utilities
+2023-07-25,Internet bill from Municipal services,41.89,Utilities
+2023-12-12,Health store - doctor visit,127.16,Health
+2023-12-25,Vitamins at Hospital,20.14,Health
+2023-08-29,Concert hall theme park,49.28,Entertainment
+2023-09-20,HOA fees at Housing authority,284.38,Housing
+2023-09-13,Monthly hoa fees,141.41,Housing
+2024-02-13,Wellness center - medical test,53.94,Health
+2024-02-14,Monthly rent at Apartment complex,1864.46,Housing
+2023-12-28,Electricity bill from Power company,131.59,Utilities
+2024-01-28,Car insurance at Insurance office,167.28,Insurance
+2023-02-23,Monthly health insurance,226.99,Health
+2023-09-27,Local restaurant food delivery,33.82,Food
+2023-11-14,Taxi from Gas station,50.5,Transport
+2023-02-01,Internet bill at Internet provider,56.83,Utilities
+2024-02-27,Monthly dinner,70.98,Food
+2023-03-07,Beverages payment,23.12,Food
+2023-09-19,Monthly lunch,18.06,Food
+2023-10-03,Gas bill at City utilities,123.17,Utilities
+2023-08-16,Monthly clothes,103.14,Shopping
+2023-03-21,Utility deposit at Phone company,175.5,Utilities
+2023-12-22,Housing authority repairs,296.82,Housing
+2023-05-22,Insurance provider - rental insurance,25.49,Insurance
+2024-01-27,Monthly property tax,1908.41,Housing
+2023-01-19,Cable TV payment,87.81,Utilities
+2023-03-31,Maintenance from Real estate office,947.27,Housing
+2023-06-03,Laptop from Walmart,1938.37,Electronics
+2024-01-16,Pet supplies from Local grocery,69.76,Groceries
+2023-11-27,Highway - car wash,19.55,Transport
+2023-03-05,Monthly travel insurance,31.84,Insurance
+2023-11-17,Museum entry at Venue,15.41,Entertainment
+2023-11-25,Monthly travel insurance,61.47,Insurance
+2023-04-27,Netflix subscription payment,19.74,Entertainment
+2023-07-11,Tech shop tablet,281.36,Electronics
+2023-11-03,Trader Joe's - bulk shopping,187.94,Groceries
+2023-03-01,Fast food at Local restaurant,27.81,Food
+2023-12-29,Security deposit from Maintenance company,1652.44,Housing
+2023-08-08,Doctor visit at Clinic,161.83,Health
+2024-01-25,Personal care from Retail store,77.53,Shopping
+2023-02-06,Weekly groceries at Local market,154.19,Groceries
+2023-06-11,Kroger - fresh produce,59.98,Groceries
+2023-09-22,Property management property service,331.89,Housing
+2023-07-05,Trader Joe's - baby supplies,94.08,Groceries
+2024-01-14,Internet bill at Phone company,94.84,Utilities
+2023-10-28,Organic food at Kroger,114.15,Groceries
+2023-10-08,Online store - tablet,343.92,Electronics
+2023-11-27,Best Buy tablet,419.57,Electronics
+2023-11-22,Smartphone payment,998.69,Electronics
+2023-03-11,Gaming subscription at Theater,11.38,Entertainment
+2023-04-02,Auto shop - car maintenance,65.52,Transport
+2023-05-14,Insurance provider car insurance,122.09,Insurance
+2023-07-05,Monthly gaming subscription,10.54,Entertainment
+2023-07-11,Smartphone at Electronics store,803.0,Electronics
+2023-08-29,Municipal services cable tv,136.45,Utilities
+2023-09-05,Monthly sewer service,69.76,Utilities
+2023-10-23,Monthly rent at Property management,1939.46,Housing
+2023-01-25,Organic food from Aldi,72.49,Groceries
+2023-06-29,Museum entry at Concert hall,18.69,Entertainment
+2023-06-17,Pantry items at Kroger,56.91,Groceries
+2023-07-05,Smart home device payment,135.78,Electronics
+2023-06-05,Monthly therapy session,159.46,Health
+2023-02-19,Mortgage payment from Housing authority,1686.6,Housing
+2024-01-22,Auto shop - taxi,33.13,Transport
+2023-03-24,Camera payment,473.72,Electronics
+2023-08-06,Monthly computer accessories,24.68,Electronics
+2023-09-20,Disability insurance from Insurance provider,263.77,Insurance
+2023-03-02,Mall furniture,130.57,Shopping
+2024-02-01,Insurance company - car insurance,274.38,Insurance
+2023-11-14,Monthly home insurance,137.83,Housing
+2023-07-23,Local grocery fresh produce,48.1,Groceries
+2023-09-24,Monthly taxi,26.99,Transport
+2024-01-29,Monthly energy service,185.04,Utilities
+2023-04-02,Music streaming from Bookstore,10.06,Entertainment
+2023-07-21,Monthly computer accessories,76.62,Electronics
+2023-07-20,Utility deposit from Power company,294.34,Utilities
+2023-05-10,Bulk shopping at Local grocery,176.66,Groceries
+2023-09-26,Monthly fast food,9.84,Food
+2023-11-13,Fast food at Starbucks,28.54,Food
+2023-01-13,Monthly dental checkup,103.09,Health
+2023-04-14,Monthly household supplies,45.19,Groceries
+2023-07-20,Therapy session payment,157.9,Health
+2023-11-02,Property tax from Property management,1648.5,Housing
+2024-02-27,Vitamins at Pharmacy,23.18,Health
+2023-02-28,Toll at Parking garage,6.79,Transport
+2023-08-12,Rental insurance at Insurance broker,86.43,Insurance
+2023-06-29,Music streaming from Venue,11.96,Entertainment
+2023-06-16,HOA fees at Home service,149.75,Housing
+2023-06-07,Coffee shop from Starbucks,16.03,Food
+2023-12-08,City center train ticket,46.71,Transport
+2023-08-14,Car insurance from Insurance broker,291.5,Insurance
+2023-08-10,Maintenance at Home service,441.35,Housing
+2023-06-02,Pet supplies payment,27.55,Groceries
+2023-07-13,Local retailer - headphones,292.48,Electronics
+2023-04-25,Safeway - fresh produce,89.13,Groceries
+2023-09-17,Monthly cable tv,65.39,Utilities
+2023-06-03,Insurance broker health insurance,194.47,Insurance
+2024-02-26,Monthly gifts,35.78,Shopping
+2023-05-12,Monthly smart home device,175.17,Electronics
+2023-01-18,Clothes from Brand store,164.52,Shopping
+2024-01-05,Monthly car insurance,203.16,Insurance
+2023-06-01,Fast food payment,20.43,Food
+2023-01-13,Apartment complex mortgage payment,1049.81,Housing
+2023-04-09,Burger King lunch,23.74,Food
+2023-08-04,Gym - first aid supplies,31.24,Health
+2023-04-14,Monthly laptop,1111.03,Electronics
+2024-02-24,Insurance broker - travel insurance,40.69,Insurance
+2024-01-06,Monthly vitamins,42.73,Health
+2023-05-20,Walmart tablet,671.4,Electronics
+2023-08-24,Travel insurance at Insurance office,70.2,Insurance
+2023-11-26,Netflix subscription from Online service,14.02,Entertainment
+2023-03-26,Hospital health insurance,200.04,Health
+2023-09-03,Breakfast from Subway,14.91,Food
+2023-04-14,Snacks at Chipotle,12.84,Food
+2023-11-30,Cable TV from Water department,113.57,Utilities
+2023-01-11,Monthly health insurance,156.07,Insurance
+2023-04-28,Metro card from Parking garage,72.85,Transport
+2023-10-06,Gaming console payment,357.15,Electronics
+2023-04-28,Monthly snacks,9.72,Food
+2023-07-31,Energy service at Municipal services,62.56,Utilities
+2023-06-11,Medical center doctor visit,128.42,Health
+2023-02-14,Furniture payment,341.94,Shopping
+2023-03-04,Target gaming console,402.04,Electronics
+2023-10-15,Airport - metro card,45.28,Transport
+2023-11-16,Music streaming payment,6.29,Entertainment
+2023-03-31,Snacks payment,6.84,Food
+2023-10-30,Breakfast payment,23.52,Food
+2023-08-24,Sewer service from Cable provider,41.14,Utilities
+2023-05-19,Beverages payment,18.19,Food
+2023-01-31,Insurance broker pet insurance,24.82,Insurance
+2023-03-09,Furniture from Mall,344.99,Shopping
+2023-01-30,Monthly maintenance,167.49,Housing
+2023-12-06,Charger payment,31.0,Electronics
+2023-05-02,Apple Store - headphones,297.41,Electronics
+2023-11-25,Clinic - health insurance,278.31,Health
+2023-11-16,Insurance broker disability insurance,203.08,Insurance
+2024-02-24,Home insurance from Insurance provider,258.09,Insurance
+2024-02-04,Subway food delivery,36.57,Food
+2023-11-07,Brand store - gifts,23.7,Shopping
+2023-05-16,Stadium - sports event,43.04,Entertainment
+2023-06-07,Grocery shopping from Whole Foods,52.94,Food
+2023-04-10,Phone bill payment,38.29,Utilities
+2023-03-08,Amazon - headphones,124.94,Electronics
+2024-01-19,Property management monthly rent,1673.06,Housing
+2023-08-01,Home decor at Boutique,83.56,Shopping
+2023-06-13,Online store - headphones,28.67,Electronics
+2023-11-19,Safeway snacks and beverages,54.39,Groceries
+2023-10-06,Monthly camera,443.84,Electronics
+2023-06-15,Sports event payment,176.65,Entertainment
+2024-02-11,Metro card at Downtown,53.68,Transport
+2023-11-16,Insurance agent - life insurance,122.59,Insurance
+2023-10-01,Cable provider - utility deposit,234.19,Utilities
+2023-03-21,Health store prescription,92.66,Health
+2023-01-31,Burger King fast food,9.78,Food
+2023-02-09,Highway gas,65.7,Transport
+2023-04-29,Snacks and beverages payment,50.28,Groceries
+2024-01-23,Local restaurant - grocery shopping,179.48,Food
+2023-08-03,Personal care payment,78.17,Shopping
+2023-11-01,Eye exam at Hospital,175.68,Health
+2023-08-20,Monthly accessories,33.57,Shopping
+2023-09-21,Utility deposit at Cable provider,284.77,Utilities
+2024-01-20,Water bill at City utilities,42.8,Utilities
+2023-05-21,Water bill payment,34.28,Utilities
+2023-05-17,Shopping center office supplies,87.47,Shopping
+2023-03-06,TV at Online store,487.55,Electronics
+2023-09-22,Music streaming from Museum,7.82,Entertainment
+2023-10-22,Water department sewer service,55.31,Utilities
+2023-04-18,Monthly vision insurance,55.32,Insurance
+2023-10-25,Insurance provider - dental insurance,37.71,Insurance
+2023-01-08,Retail store office supplies,35.66,Shopping
+2023-02-22,Health insurance payment,314.86,Health
+2023-05-07,Concert tickets at Entertainment center,129.27,Entertainment
+2023-06-22,Headphones at Amazon,199.52,Electronics
+2023-09-12,Music streaming at Cinema,8.11,Entertainment
+2024-01-20,Online insurance home insurance,287.51,Insurance
+2023-10-30,Monthly movie tickets,18.86,Entertainment
+2023-01-15,Monthly fast food,7.83,Food
+2023-04-12,Monthly parking,27.83,Transport
+2023-10-24,Medical test payment,150.85,Health
+2023-06-13,Movie tickets at Bookstore,18.14,Entertainment
+2023-01-27,Cinema gaming subscription,13.69,Entertainment
+2024-02-15,Museum - museum entry,41.7,Entertainment
+2024-01-21,Sports equipment at Brand store,205.68,Shopping
+2023-07-29,Disability insurance from Insurance broker,195.45,Insurance
+2023-10-24,Monthly gaming console,297.38,Electronics
+2023-12-30,Monthly medical test,131.78,Health
+2023-04-12,Car insurance at Insurance agent,52.45,Insurance
+2023-07-19,Health store - doctor visit,55.31,Health
+2023-02-15,Monthly gym membership,68.01,Health
+2023-01-23,Dental office eye exam,172.82,Health
+2023-07-13,Monthly doctor visit,143.86,Health
+2023-08-23,Department store beauty products,59.44,Shopping
+2024-01-02,Theme park theater show,57.96,Entertainment
+2023-06-02,Theme park payment,118.28,Entertainment
+2024-02-18,Sewer service from City utilities,60.27,Utilities
+2023-05-16,Monthly smart home device,56.2,Electronics
+2023-10-17,Retail store furniture,404.14,Shopping
+2023-06-28,Phone bill from Utility company,52.08,Utilities
+2023-06-06,Breakfast from Chipotle,28.98,Food
+2023-02-27,Monthly taxi,50.86,Transport
+2023-02-21,Monthly smart home device,96.25,Electronics
+2023-12-31,Aldi household supplies,39.66,Groceries
+2023-09-09,Home decor at Brand store,133.49,Shopping
+2024-01-31,Prescription from Dental office,76.0,Health
+2023-07-08,Laptop at Microsoft Store,1242.01,Electronics
+2023-06-29,Concert hall - concert tickets,126.76,Entertainment
+2023-09-10,Accessories at Shopping center,27.29,Shopping
+2023-11-19,Local station toll,16.48,Transport
+2023-01-16,Furniture payment,270.15,Shopping
+2023-02-12,Headphones payment,65.01,Electronics
+2023-08-06,Shoes at Boutique,109.76,Shopping
+2023-05-06,Monthly pantry items,70.59,Groceries
+2023-09-09,Food delivery at Chipotle,26.07,Food
+2023-06-02,Smart home device from Microsoft Store,91.8,Electronics
+2023-09-04,Accessories payment,29.07,Shopping
+2023-06-03,Clinic - prescription,37.02,Health
+2023-01-23,Monthly property service,399.95,Housing
+2023-10-16,Gym medical test,248.43,Health
+2023-11-05,Concert tickets at Venue,55.41,Entertainment
+2023-11-01,Theater book purchase,21.26,Entertainment
+2023-02-14,Car wash payment,17.4,Transport
+2024-01-20,Parking garage - taxi,24.52,Transport
+2023-04-05,Laptop at Walmart,1519.93,Electronics
+2023-01-25,Theater show at Venue,63.2,Entertainment
+2023-01-22,Medical test at Wellness center,150.0,Health
+2023-05-30,Insurance company - travel insurance,75.3,Insurance
+2023-07-04,Panera Bread restaurant,43.3,Food
+2023-10-20,Travel insurance from Insurance broker,91.37,Insurance
+2024-02-05,Metro card payment,62.5,Transport
+2023-02-23,Gas bill at Phone company,48.6,Utilities
+2023-10-08,Real estate office home insurance,384.39,Housing
+2023-06-18,Food delivery payment,31.08,Food
+2023-11-06,Cable TV payment,140.17,Utilities
+2023-04-21,Car maintenance payment,87.77,Transport
+2023-02-02,Headphones from Electronics store,250.11,Electronics
+2023-02-15,Museum entry from Theater,19.31,Entertainment
+2023-06-17,Computer accessories from Microsoft Store,46.27,Electronics
+2023-02-26,Train ticket at Transit hub,16.9,Transport
+2024-02-18,Netflix subscription from Museum,14.9,Entertainment
+2023-01-16,Eye exam payment,54.6,Health
+2023-07-31,Bus ticket from Service center,2.05,Transport
+2023-09-25,Movie tickets payment,13.43,Entertainment
+2023-10-07,Monthly uber ride,25.08,Transport
+2023-07-27,Snacks at Panera Bread,9.16,Food
+2023-12-20,Mall - furniture,246.98,Shopping
+2024-02-10,Transit hub - taxi,42.73,Transport
+2023-11-05,Local retailer - laptop,1944.5,Electronics
+2023-07-24,Property management - maintenance,705.31,Housing
+2024-02-16,Monthly gas,68.0,Transport
+2023-04-15,Office supplies payment,68.3,Shopping
+2023-12-29,Taxi at Auto shop,58.78,Transport
+2023-03-08,Monthly car maintenance,90.36,Transport
+2023-05-11,Pizza Hut - restaurant,28.83,Food
+2023-04-12,Mall home decor,98.12,Shopping
+2024-01-27,Music streaming from Theme park,7.16,Entertainment
+2023-03-26,Snacks from Local restaurant,11.02,Food
+2023-06-14,Monthly travel insurance,63.8,Insurance
+2023-05-08,Apartment complex repairs,77.58,Housing
+2023-07-14,Cable TV payment,105.6,Utilities
+2023-01-29,Car wash from Highway,15.48,Transport
+2023-07-12,Boutique beauty products,34.96,Shopping
+2023-07-14,Water department waste management,35.69,Utilities
+2023-04-29,Gas bill payment,135.97,Utilities
+2023-09-12,Life insurance at Insurance office,67.34,Insurance
+2023-12-19,Health insurance payment,108.6,Health
+2023-04-25,Toll at Downtown,14.47,Transport
+2023-05-31,Rental insurance payment,37.34,Insurance
+2023-05-14,Retail store furniture,266.18,Shopping
+2024-02-09,Uber ride at Service center,46.03,Transport
+2023-06-29,Coffee shop payment,4.79,Food
+2023-05-22,Monthly snacks and beverages,33.28,Groceries
+2023-01-31,Bus ticket from Downtown,8.15,Transport
+2023-07-30,Health insurance from Hospital,132.42,Health
+2023-03-20,Grocery shopping at McDonald's,145.08,Food
+2023-07-26,Netflix subscription at Entertainment center,16.4,Entertainment
+2024-01-09,Music streaming at Venue,6.6,Entertainment
+2023-04-07,Monthly shoes,111.33,Shopping
+2023-02-10,Vision insurance payment,33.58,Insurance
+2024-01-01,Fast food from Trader Joe's,29.66,Food
+2023-08-30,Theater show payment,108.2,Entertainment
+2023-06-27,Health insurance at Medical center,352.5,Health
+2023-10-23,Dental checkup at Clinic,479.15,Health
+2023-12-23,Weekly groceries at Kroger,66.52,Groceries
+2023-11-08,Pet supplies at Kroger,75.55,Groceries
+2023-10-22,Dental insurance at Insurance agent,116.01,Insurance
+2023-05-25,Walmart gaming console,360.71,Electronics
+2023-09-10,Dinner at Subway,20.82,Food
+2023-09-09,Monthly dental checkup,191.4,Health
+2024-01-02,Monthly vitamins,16.57,Health
+2023-08-02,Insurance provider - dental insurance,76.17,Insurance
+2023-07-20,Beauty products from Online shop,91.75,Shopping
+2023-11-21,Utility deposit payment,149.14,Utilities
+2024-01-30,Home service home insurance,465.13,Housing
+2024-01-12,Clothes from Department store,147.79,Shopping
+2023-09-09,Monthly bulk shopping,173.28,Groceries
+2023-07-21,Home improvement from Property management,563.56,Housing
+2023-12-15,Hospital health insurance,389.05,Health
+2023-03-15,Gaming subscription from Concert hall,11.22,Entertainment
+2023-11-18,Coffee shop from Subway,17.53,Food
+2023-06-27,Home decor at Online shop,66.82,Shopping
+2023-10-04,Book purchase payment,46.33,Entertainment
+2023-04-06,Dental checkup at Eye care center,353.08,Health
+2023-08-30,Online service - netflix subscription,13.69,Entertainment
+2023-01-13,Monthly tv,479.78,Electronics
+2023-04-09,Restaurant payment,65.65,Food
+2023-05-31,Breakfast from Burger King,23.68,Food
+2023-05-26,Pantry items payment,126.7,Groceries
+2024-02-01,Water department - sewer service,45.68,Utilities
+2023-11-02,Sewer service at City utilities,44.54,Utilities
+2023-02-07,Headphones payment,248.27,Electronics
+2023-09-06,Camera from Amazon,447.97,Electronics
+2024-02-28,Theme park theater show,36.79,Entertainment
+2023-03-15,Waste management from Cable provider,48.93,Utilities
+2023-10-05,Grocery shopping payment,132.25,Food
+2023-12-24,Metro card at Local station,35.21,Transport
+2023-04-27,Tablet at Apple Store,223.49,Electronics
+2023-07-18,Monthly home insurance,492.33,Housing
+2024-02-09,Pantry items at Kroger,36.11,Groceries
+2023-04-10,City utilities - gas bill,73.9,Utilities
+2023-07-14,Clinic - vitamins,40.41,Health
+2023-05-19,Monthly dental insurance,94.37,Insurance
+2023-12-10,Walmart organic food,98.65,Groceries
+2023-09-28,Prescription from Pharmacy,22.5,Health
+2023-11-21,Doctor visit payment,198.83,Health
+2023-07-01,Meat and dairy at Local grocery,49.32,Groceries
+2023-08-13,Toll from Gas station,19.36,Transport
+2023-10-15,Meat and dairy from Target,85.07,Groceries
+2023-03-07,Safeway pet supplies,42.53,Groceries
+2023-03-25,Eye exam payment,58.9,Health
+2024-02-24,Property management - property tax,1562.06,Housing
+2023-05-14,Monthly laptop,584.89,Electronics
+2023-01-15,City center - bus ticket,2.11,Transport
+2023-09-29,Cable provider - cable tv,98.51,Utilities
+2023-12-04,Pet supplies payment,43.4,Groceries
+2023-05-05,Maintenance payment,848.92,Housing
+2023-02-02,Bulk shopping from Safeway,282.15,Groceries
+2023-09-26,Monthly tablet,586.22,Electronics
+2023-07-09,Museum entry at Online service,43.39,Entertainment
+2023-03-04,Beverages at Local restaurant,25.81,Food
+2023-02-02,Car maintenance at Highway,162.54,Transport
+2023-03-17,Clinic - first aid supplies,29.89,Health
+2024-02-23,Insurance provider disability insurance,141.73,Insurance
+2023-07-23,Gaming console from Best Buy,393.6,Electronics
+2023-12-26,City center train ticket,20.95,Transport
+2024-01-04,Service center train ticket,19.06,Transport
+2023-03-31,Theme park payment,78.52,Entertainment
+2023-08-11,Vitamins from Health store,44.1,Health
+2023-11-18,Movie tickets at Theater,26.06,Entertainment
+2023-12-09,Sports event at Venue,108.19,Entertainment
+2023-02-06,Fast food at Starbucks,18.61,Food
+2023-09-15,Disability insurance at Insurance agent,100.31,Insurance
+2023-11-17,Lunch from Burger King,12.44,Food
+2023-09-22,Gaming console from Electronics store,366.56,Electronics
+2023-11-24,Pet insurance from Insurance company,47.92,Insurance
+2023-08-05,Insurance office - pet insurance,86.86,Insurance
+2023-07-20,Insurance company - car insurance,252.94,Insurance
+2023-07-12,Aldi - household supplies,85.24,Groceries
+2023-11-07,Clinic - medical test,147.85,Health
+2023-02-22,Monthly household supplies,89.48,Groceries
+2023-10-09,Dinner at Burger King,39.32,Food
+2023-11-05,Whole Foods - dinner,39.71,Food
+2023-10-09,Gaming console at Electronics store,478.5,Electronics
+2023-09-28,Monthly dental checkup,395.29,Health
+2023-04-28,Panera Bread - lunch,24.62,Food
+2023-01-27,Chipotle restaurant,77.72,Food
+2023-08-02,Microsoft Store smart home device,67.83,Electronics
+2023-08-06,Highway - taxi,30.05,Transport
+2024-01-24,Monthly movie tickets,11.13,Entertainment
+2023-04-04,Property service payment,463.25,Housing
+2023-11-25,Pharmacy first aid supplies,30.37,Health
+2023-07-21,Beauty products at Department store,20.31,Shopping
+2023-10-21,Service center - car wash,19.45,Transport
+2023-04-06,Museum entry payment,11.71,Entertainment
+2023-04-12,Monthly toll,18.2,Transport
+2023-09-01,Online service - book purchase,29.01,Entertainment
+2023-09-25,Theater show at Venue,96.6,Entertainment
+2023-07-27,Property tax payment,851.4,Housing
+2023-09-27,HOA fees payment,342.53,Housing
+2023-09-30,Target - fresh produce,28.06,Groceries
+2023-10-27,Monthly toll,5.44,Transport
+2023-11-11,Tablet payment,272.25,Electronics
+2023-02-16,Disability insurance from Insurance broker,64.37,Insurance
+2023-08-03,Mall - accessories,76.1,Shopping
+2023-02-26,Home insurance from Insurance company,152.01,Insurance
+2023-10-19,Weekly groceries at Local grocery,136.77,Groceries
+2023-10-07,Laptop at Online store,1222.72,Electronics
+2023-08-09,Dental insurance at Insurance office,98.05,Insurance
+2023-08-22,Monthly beauty products,86.69,Shopping
+2023-04-15,Utility deposit at Cable provider,237.91,Utilities
+2023-07-28,Monthly vitamins,15.16,Health
+2023-09-30,Headphones at Tech shop,160.53,Electronics
+2023-05-16,McDonald's coffee shop,17.26,Food
+2023-03-16,Tablet at Electronics store,481.64,Electronics
+2023-02-16,Shoes payment,147.97,Shopping
+2023-05-24,Waste management at Phone company,38.55,Utilities
+2023-11-17,Parking garage taxi,20.51,Transport
+2023-07-16,Dental insurance payment,127.8,Insurance
+2023-04-17,Monthly dinner,84.95,Food
+2023-06-30,Monthly computer accessories,161.76,Electronics
+2023-01-26,Monthly bulk shopping,126.87,Groceries
+2023-11-06,Property tax from Home service,1512.85,Housing
+2023-04-20,Smartphone payment,1185.96,Electronics
+2023-07-04,Music streaming from Museum,13.69,Entertainment
+2023-04-22,Health insurance at Clinic,289.92,Health
+2023-02-08,HOA fees at Housing authority,318.89,Housing
+2023-06-01,Internet bill payment,63.86,Utilities
+2024-01-17,Pet supplies payment,74.44,Groceries
+2023-03-07,Breakfast at Chipotle,22.87,Food
+2023-06-17,Dental checkup payment,153.09,Health
+2023-10-29,Breakfast payment,29.62,Food
+2023-11-22,Monthly snacks and beverages,68.36,Groceries
+2023-09-27,Electricity bill from Utility company,118.24,Utilities
+2023-10-16,Monthly property tax,1484.5,Housing
+2024-01-11,Monthly netflix subscription,13.47,Entertainment
+2023-07-13,Monthly metro card,96.48,Transport
+2023-10-28,Food delivery payment,21.25,Food
+2023-03-30,Monthly shoes,60.58,Shopping
+2023-11-17,Theme park movie tickets,10.37,Entertainment
+2023-02-21,Train ticket payment,49.23,Transport
+2023-11-18,Water bill payment,37.01,Utilities
+2023-02-19,Gas bill payment,118.58,Utilities
+2023-08-28,Theater show payment,88.55,Entertainment
+2023-06-24,Taxi from Parking garage,32.24,Transport
+2023-09-14,Insurance broker dental insurance,133.05,Insurance
+2023-12-26,Vitamins payment,11.48,Health
+2023-02-18,Monthly property service,478.84,Housing
+2023-10-09,Gym membership from Dental office,64.32,Health
+2023-09-11,Auto shop - car wash,11.81,Transport
+2023-09-20,Auto shop train ticket,24.61,Transport
+2023-03-31,Concert tickets at Bookstore,151.01,Entertainment
+2024-02-13,Snacks and beverages from Target,22.16,Groceries
+2023-06-30,Snacks from Trader Joe's,10.99,Food
+2023-08-15,Maintenance company - maintenance,580.53,Housing
+2023-06-16,Insurance agent dental insurance,129.25,Insurance
+2024-02-16,Headphones payment,196.63,Electronics
+2023-12-13,Monthly internet bill,92.78,Utilities
+2023-05-31,Restaurant from Whole Foods,52.94,Food
+2023-06-26,Smartphone at Microsoft Store,478.03,Electronics
+2023-03-20,Metro card at Highway,50.88,Transport
+2023-11-18,Life insurance at Online insurance,263.86,Insurance
+2023-10-14,Real estate office home insurance,456.86,Housing
+2023-03-31,Shopping center - home decor,21.03,Shopping
+2023-09-15,Monthly phone bill,61.04,Utilities
+2023-09-06,Movie tickets from Theme park,15.51,Entertainment
+2023-08-09,Monthly meat and dairy,134.89,Groceries
+2023-07-01,Local retailer - smart home device,249.99,Electronics
+2023-10-08,TV at Walmart,308.81,Electronics
+2023-07-17,Dental insurance payment,32.22,Insurance
+2024-01-03,Monthly car wash,18.2,Transport
+2024-01-25,Car maintenance payment,199.96,Transport
+2023-06-21,Shopping center clothes,185.14,Shopping
+2023-01-03,Lunch at Local restaurant,15.29,Food
+2023-08-09,Gaming console at Best Buy,388.81,Electronics
+2023-03-19,Monthly travel insurance,65.57,Insurance
+2023-10-12,Parking payment,9.01,Transport
+2023-06-12,Museum sports event,140.36,Entertainment
+2023-07-09,Smartphone payment,1189.04,Electronics
+2023-10-11,Pet supplies from Whole Foods,48.93,Groceries
+2023-09-15,Smart home device at Best Buy,263.62,Electronics
+2023-12-04,Dinner payment,35.39,Food
+2023-03-03,Property tax payment,1309.68,Housing
+2023-06-27,Shoes at Brand store,121.51,Shopping
+2024-02-01,Security deposit payment,1737.47,Housing
+2023-01-24,Monthly netflix subscription,16.61,Entertainment
+2024-01-19,Monthly eye exam,191.85,Health
+2023-02-27,Walmart pet supplies,87.42,Groceries
+2023-09-13,Monthly breakfast,11.37,Food
+2023-01-22,Gas from Local station,34.13,Transport
+2023-08-04,Phone bill payment,79.78,Utilities
+2023-12-20,Maintenance company hoa fees,169.18,Housing
+2023-07-06,Meat and dairy payment,120.54,Groceries
+2023-01-06,Mall office supplies,62.15,Shopping
+2023-05-02,Maintenance company maintenance,537.62,Housing
+2023-01-26,City center gas,61.47,Transport
+2023-03-29,Water department cable tv,143.09,Utilities
+2023-06-04,Monthly pet supplies,79.95,Groceries
+2023-12-03,Clinic gym membership,93.92,Health
+2023-05-25,Accessories payment,64.49,Shopping
+2023-02-24,Monthly coffee shop,6.62,Food
+2023-01-01,Toll at Downtown,13.63,Transport
+2024-02-01,Camera payment,717.21,Electronics
+2023-04-06,Power company - waste management,32.09,Utilities
+2023-02-22,Weekly groceries at Aldi,195.4,Groceries
+2023-06-06,Home insurance from Online insurance,278.51,Insurance
+2023-10-31,Car wash at Airport,26.28,Transport
+2023-06-01,Monthly uber ride,27.04,Transport
+2023-10-06,Fresh produce from Local grocery,32.35,Groceries
+2023-05-24,Walmart - snacks and beverages,66.16,Groceries
+2023-03-29,Parking payment,9.79,Transport
+2023-11-29,TV payment,1325.69,Electronics
+2023-06-16,Accessories from Department store,27.38,Shopping
+2024-02-05,Clothes from Outlet,193.12,Shopping
+2023-02-23,Gifts at Online shop,93.08,Shopping
+2023-02-22,Fresh produce at Walmart,50.19,Groceries
+2023-03-02,Life insurance at Insurance broker,66.85,Insurance
+2024-01-03,Monthly doctor visit,194.04,Health
+2023-08-06,Monthly home insurance,85.36,Insurance
+2023-08-27,Breakfast at Local restaurant,23.44,Food
+2023-01-06,Online insurance - rental insurance,78.0,Insurance
+2024-02-07,Taxi payment,49.32,Transport
+2023-09-26,Home service - property tax,1873.97,Housing
+2023-03-24,Monthly taxi,47.17,Transport
+2023-02-21,Monthly breakfast,18.97,Food
+2023-05-25,Hospital therapy session,155.02,Health
+2023-02-05,Burger King food delivery,23.26,Food
+2023-07-03,Dental insurance from Insurance provider,115.61,Insurance
+2023-11-10,Insurance broker health insurance,260.57,Insurance
+2023-06-19,Dental checkup from Gym,362.87,Health
+2023-02-10,Monthly pet insurance,96.8,Insurance
+2023-04-30,Music streaming payment,7.84,Entertainment
+2023-02-25,Gas bill at City utilities,93.97,Utilities
+2023-12-10,Clothes at Department store,33.19,Shopping
+2024-01-30,Repairs at Maintenance company,340.36,Housing
+2023-04-10,Gas bill at Phone company,88.42,Utilities
+2023-08-19,Breakfast at McDonald's,5.99,Food
+2023-03-06,Insurance office rental insurance,70.34,Insurance
+2023-12-07,Sports event from Online service,64.18,Entertainment
+2023-07-22,Health insurance at Insurance office,413.79,Insurance
+2023-04-24,Laptop at Electronics store,536.62,Electronics
+2023-10-23,Monthly sewer service,34.05,Utilities
+2024-02-21,Monthly snacks,3.49,Food
+2023-12-07,Vision insurance payment,29.7,Insurance
+2023-03-04,Laptop from Microsoft Store,1891.21,Electronics
+2023-10-25,Museum music streaming,10.26,Entertainment
+2023-11-05,Dental insurance at Online insurance,92.54,Insurance
+2023-11-01,Monthly rent payment,1594.79,Housing
+2023-08-19,Gifts payment,146.09,Shopping
+2024-02-24,Mortgage payment at Maintenance company,2441.34,Housing
+2023-10-01,Monthly parking,22.77,Transport
+2024-01-27,Property management property tax,702.89,Housing
+2023-11-08,Maintenance company mortgage payment,1287.43,Housing
+2023-04-15,Prescription from Hospital,17.9,Health
+2023-07-02,Online insurance travel insurance,80.32,Insurance
+2023-03-18,Property management - property service,325.61,Housing
+2023-04-19,Dental checkup from Dental office,201.49,Health
+2023-12-29,Insurance provider - pet insurance,47.58,Insurance
+2023-08-01,Toll from Downtown,17.48,Transport
+2024-01-18,Travel insurance from Insurance broker,49.31,Insurance
+2023-09-14,Car wash at Airport,31.91,Transport
+2023-10-21,Repairs at Maintenance company,204.08,Housing
+2023-01-24,Car insurance at Online insurance,244.82,Insurance
+2023-08-16,Gifts from Department store,70.22,Shopping
+2023-07-23,Transit hub bus ticket,4.23,Transport
+2024-02-23,Electricity bill at Cable provider,143.54,Utilities
+2023-09-07,Monthly meat and dairy,31.33,Groceries
+2023-07-21,Train ticket payment,6.33,Transport
+2023-11-12,Concert tickets from Cinema,199.31,Entertainment
+2023-09-03,Theme park payment,84.46,Entertainment
+2023-09-05,Mall gifts,33.56,Shopping
+2024-02-27,Eye care center prescription,66.66,Health
+2023-12-21,Office supplies payment,39.79,Shopping
+2023-08-19,Safeway - meat and dairy,50.78,Groceries
+2023-04-30,Car wash from Downtown,17.93,Transport
+2023-07-01,Monthly breakfast,8.23,Food
+2023-11-07,Highway gas,25.92,Transport
+2023-08-06,Theater show payment,145.26,Entertainment
+2023-03-10,Online insurance car insurance,215.67,Insurance
+2023-07-20,Sewer service payment,30.14,Utilities
+2023-12-17,Costco bulk shopping,147.74,Groceries
+2024-01-25,Monthly monthly rent,2504.13,Housing
+2023-05-10,Mall - gifts,79.59,Shopping
+2023-01-23,Monthly beverages,12.57,Food
+2023-04-30,Maintenance company - mortgage payment,1279.11,Housing
+2023-05-12,McDonald's - restaurant,90.96,Food
+2024-01-12,Netflix subscription at Entertainment center,10.06,Entertainment
+2023-02-08,Monthly organic food,109.28,Groceries
+2023-07-25,Phone company - utility deposit,181.51,Utilities
+2024-01-03,Tablet payment,755.86,Electronics
+2023-07-14,Brand store - accessories,80.81,Shopping
+2023-08-08,Doctor visit payment,149.82,Health
+2023-06-23,Baby supplies at Local grocery,53.49,Groceries
+2023-04-06,Gifts payment,137.22,Shopping
+2023-02-28,Housing authority - property tax,1706.86,Housing
+2023-03-11,Power company cable tv,131.58,Utilities
+2023-03-02,Monthly pantry items,118.34,Groceries
+2023-01-01,Cable provider - cable tv,130.14,Utilities
+2023-08-22,Music streaming payment,8.65,Entertainment
+2023-11-30,Train ticket payment,21.62,Transport
+2023-11-21,Shoes payment,131.03,Shopping
+2023-06-07,Walmart weekly groceries,135.35,Groceries
+2023-03-14,Maintenance company home insurance,182.04,Housing
+2023-11-04,Pharmacy therapy session,113.07,Health
+2023-04-18,Repairs payment,437.51,Housing
+2023-01-13,Gaming subscription payment,10.72,Entertainment
+2023-05-15,Bus ticket from Local station,6.08,Transport
+2023-10-02,Metro card from City center,60.2,Transport
+2024-01-06,Gifts from Boutique,36.13,Shopping
+2023-01-14,Monthly health insurance,294.78,Insurance
+2024-01-11,Online shop office supplies,57.77,Shopping
+2023-12-12,Walmart - pet supplies,96.6,Groceries
+2023-12-14,Walmart - smartphone,582.03,Electronics
+2024-02-27,Book purchase from Entertainment center,38.02,Entertainment
+2023-05-16,Gaming console from Tech shop,350.65,Electronics
+2023-05-02,Monthly metro card,52.86,Transport
+2023-06-10,Car wash payment,20.83,Transport
+2023-08-14,Repairs at Property management,84.99,Housing
+2024-02-06,Fresh produce from Costco,94.57,Groceries
+2023-08-10,Transit hub - taxi,32.17,Transport
+2024-02-01,Vision insurance from Online insurance,50.95,Insurance
+2023-03-25,Local station - gas,72.99,Transport
+2023-06-04,Weekly groceries payment,94.07,Groceries
+2023-01-24,Energy service payment,119.99,Utilities
+2023-11-10,Phone company cable tv,53.7,Utilities
+2024-02-27,Monthly concert tickets,153.05,Entertainment
+2023-09-14,Monthly car wash,11.64,Transport
+2023-08-13,Monthly metro card,60.91,Transport
+2023-08-25,City utilities sewer service,51.53,Utilities
+2023-12-26,Theme park at Stadium,112.0,Entertainment
+2023-07-16,Cable provider cable tv,87.0,Utilities
+2023-01-06,Movie tickets payment,16.34,Entertainment
+2023-04-14,Home insurance from Insurance agent,209.11,Insurance
+2023-01-26,Specialty shop - shoes,71.63,Shopping
+2023-04-16,Car insurance from Insurance provider,230.86,Insurance
+2023-04-18,Property management - property service,431.7,Housing
+2023-04-18,Apartment complex home insurance,302.22,Housing
+2023-07-12,Car wash payment,35.12,Transport
+2023-09-29,Monthly household supplies,70.49,Groceries
+2023-08-15,Concert tickets at Museum,198.33,Entertainment
+2023-08-15,Personal care at Specialty shop,53.04,Shopping
+2023-01-19,Mall furniture,489.26,Shopping
+2023-02-16,Clothes from Brand store,141.59,Shopping
+2023-01-03,Insurance provider home insurance,50.55,Insurance
+2023-06-25,Municipal services - cable tv,119.42,Utilities
+2023-07-28,Target bulk shopping,266.75,Groceries
+2024-01-16,Monthly life insurance,97.18,Insurance
+2023-11-22,Online shop beauty products,65.02,Shopping
+2023-12-11,Property management property service,340.84,Housing
+2024-01-24,Rental insurance from Insurance broker,69.21,Insurance
+2023-03-10,Target - bulk shopping,180.23,Groceries
+2023-10-25,Real estate office hoa fees,146.95,Housing
+2023-02-02,Monthly personal care,43.36,Shopping
+2023-02-04,Amazon tv,252.62,Electronics
+2023-05-12,Travel insurance at Insurance agent,93.02,Insurance
+2023-10-17,Monthly doctor visit,112.26,Health
+2023-10-01,Phone company - sewer service,43.58,Utilities
+2023-03-09,Real estate office - mortgage payment,2843.47,Housing
+2023-06-03,Monthly music streaming,12.17,Entertainment
+2023-08-29,Theme park at Concert hall,41.63,Entertainment
+2023-12-11,Highway gas,50.71,Transport
+2023-04-05,Local grocery - household supplies,93.95,Groceries
+2023-12-02,Electricity bill payment,122.21,Utilities
+2023-02-19,Maintenance payment,347.16,Housing
+2023-10-16,Weekly groceries at Trader Joe's,81.05,Groceries
+2023-07-13,Household supplies at Local grocery,27.02,Groceries
+2023-09-01,Target tablet,481.34,Electronics
+2023-07-24,Vision insurance from Online insurance,85.57,Insurance
+2023-09-12,Security deposit at Home service,1195.57,Housing
+2023-11-05,Internet provider phone bill,58.93,Utilities
+2023-05-03,Home decor from Specialty shop,188.18,Shopping
+2024-01-17,Pantry items from Walmart,72.79,Groceries
+2024-01-28,Tech shop - gaming console,429.61,Electronics
+2023-03-25,Trader Joe's - household supplies,53.44,Groceries
+2023-03-19,Gaming subscription payment,12.16,Entertainment
+2023-03-20,Housing authority - maintenance,951.59,Housing
+2023-02-22,Personal care at Boutique,55.85,Shopping
+2024-01-20,Target headphones,135.59,Electronics
+2023-11-23,Internet bill payment,57.75,Utilities
+2024-02-08,Home decor from Retail store,169.47,Shopping
+2023-06-01,Monthly snacks and beverages,25.16,Groceries
+2023-02-11,Snacks and beverages from Whole Foods,41.84,Groceries
+2023-07-07,Monthly sewer service,40.83,Utilities
+2023-05-04,Monthly smartphone,1173.37,Electronics
+2023-07-18,Headphones payment,166.37,Electronics
+2023-05-24,Waste management payment,47.08,Utilities
+2023-10-10,Insurance provider home insurance,266.27,Insurance
+2023-03-08,Apartment complex property service,113.72,Housing
+2023-09-08,Museum entry payment,12.68,Entertainment
+2023-04-06,Tech shop - smart home device,133.3,Electronics
+2023-01-04,Gym membership from Hospital,58.57,Health
+2023-03-18,Meat and dairy at Safeway,43.24,Groceries
+2023-08-10,Life insurance from Insurance company,246.88,Insurance
+2023-02-04,Vision insurance from Insurance office,78.98,Insurance
+2023-08-26,Home insurance at Insurance provider,139.47,Insurance
+2024-02-21,Weekly groceries at Kroger,150.7,Groceries
+2023-07-28,Security deposit payment,668.47,Housing
+2023-07-26,Monthly property service,187.6,Housing
+2023-11-06,Safeway - bulk shopping,268.83,Groceries
+2023-03-31,Maintenance company monthly rent,2973.72,Housing
+2023-12-29,Gym membership at Dental office,73.11,Health
+2023-04-11,Life insurance from Online insurance,264.46,Insurance
+2023-11-11,Hospital - health insurance,495.99,Health
+2023-06-01,Monthly office supplies,29.93,Shopping
+2023-12-24,Monthly beverages,6.42,Food
+2023-04-30,Gas bill payment,60.53,Utilities
+2023-04-21,Pet supplies payment,48.5,Groceries
+2023-11-17,Train ticket payment,20.39,Transport
+2023-01-19,Vitamins payment,14.4,Health
+2024-02-05,Chipotle restaurant,82.85,Food
+2023-12-12,Wellness center - doctor visit,182.06,Health
+2023-09-18,Car wash payment,15.54,Transport
+2023-10-02,Local market - weekly groceries,120.09,Groceries
+2023-03-04,Maintenance company - property tax,1664.72,Housing
+2023-08-25,Home service monthly rent,1598.55,Housing
+2023-08-06,Mortgage payment payment,2066.24,Housing
+2023-06-17,Insurance broker - rental insurance,82.22,Insurance
+2023-02-21,Beauty products at Brand store,80.67,Shopping
+2023-09-10,Coffee shop payment,8.76,Food
+2023-01-21,Health insurance at Gym,290.74,Health
+2023-11-27,City utilities - sewer service,63.82,Utilities
+2024-01-13,Boutique office supplies,19.6,Shopping
+2023-10-07,Health store gym membership,88.7,Health
+2023-07-27,Monthly pet supplies,20.6,Groceries
+2023-10-23,Museum - concert tickets,69.91,Entertainment
+2023-06-10,Monthly doctor visit,151.72,Health
+2023-06-19,Apartment complex - maintenance,736.87,Housing
+2023-02-22,Gas bill payment,45.06,Utilities
+2023-05-29,Local retailer headphones,127.08,Electronics
+2023-07-22,Specialty shop - beauty products,83.49,Shopping
+2023-06-02,Apple Store - laptop,1243.3,Electronics
+2023-01-01,Boutique shoes,145.44,Shopping
+2023-12-08,Monthly mortgage payment,2952.05,Housing
+2023-05-12,Monthly gas bill,77.42,Utilities
+2023-04-13,Fast food at Trader Joe's,29.81,Food
+2023-06-16,Shopping center beauty products,41.68,Shopping
+2023-03-13,Organic food payment,40.65,Groceries
+2023-03-15,Life insurance at Insurance company,88.57,Insurance
+2023-08-20,Meat and dairy from Whole Foods,143.34,Groceries
+2024-01-28,Sports equipment from Online shop,144.74,Shopping
+2023-04-28,Dental office - doctor visit,187.98,Health
+2023-02-16,Monthly office supplies,81.71,Shopping
+2023-01-26,Weekly groceries at Local grocery,99.43,Groceries
+2023-05-01,Food delivery at Panera Bread,46.77,Food
+2023-12-02,Monthly mortgage payment,1797.77,Housing
+2024-02-06,Retail store - gifts,34.92,Shopping
+2023-08-20,Clinic - first aid supplies,25.54,Health
+2023-12-27,Cinema netflix subscription,17.64,Entertainment
+2023-02-08,Monthly doctor visit,131.38,Health
+2024-01-01,Starbucks - fast food,8.55,Food
+2023-06-30,Snacks at Burger King,3.88,Food
+2023-12-31,Home decor at Mall,90.22,Shopping
+2024-02-26,Property service payment,388.82,Housing
+2023-11-01,Electricity bill at Internet provider,84.82,Utilities
+2023-02-14,Gas station bus ticket,5.34,Transport
+2023-09-08,Monthly beverages,19.89,Food
+2023-12-21,Property service at Real estate office,433.54,Housing
+2023-07-12,Sewer service at Power company,60.37,Utilities
+2023-09-26,Netflix subscription at Venue,12.76,Entertainment
+2023-02-27,Monthly furniture,212.1,Shopping
+2023-07-26,Electronics store smart home device,160.45,Electronics
+2023-12-23,Monthly energy service,69.23,Utilities
+2023-12-29,Movie tickets payment,21.0,Entertainment
+2023-07-16,Monthly weekly groceries,163.15,Groceries
+2023-01-15,Charger from Amazon,35.3,Electronics
+2023-07-23,Health store - prescription,11.58,Health
+2023-10-02,Netflix subscription payment,19.13,Entertainment
+2023-10-04,Taxi at Local station,25.21,Transport
+2023-09-12,Monthly snacks,11.07,Food
+2024-01-21,Sports event payment,36.32,Entertainment
+2023-02-14,Monthly pantry items,131.18,Groceries
+2023-10-31,Gas at Highway,71.97,Transport
+2023-07-17,Health insurance from Insurance office,479.76,Insurance
+2024-02-14,Dental office dental checkup,451.22,Health
+2023-05-02,Monthly security deposit,1435.84,Housing
+2023-01-01,Monthly travel insurance,63.13,Insurance
+2023-10-20,Starbucks food delivery,40.79,Food
+2023-06-25,Real estate office - maintenance,124.26,Housing
+2024-01-22,Coffee shop payment,4.62,Food
+2023-05-18,Parking from Transit hub,10.73,Transport
+2023-02-13,Monthly dinner,29.66,Food
+2023-04-07,Museum museum entry,39.51,Entertainment
+2023-12-31,Best Buy - charger,23.91,Electronics
+2023-03-05,Metro card from Transit hub,82.0,Transport
+2024-02-15,Monthly office supplies,91.39,Shopping
+2023-04-15,Electricity bill payment,98.07,Utilities
+2023-01-13,Shopping center - shoes,148.27,Shopping
+2023-11-30,Food delivery payment,41.92,Food
+2023-01-17,Repairs from Maintenance company,169.24,Housing
+2023-02-22,Gaming console at Walmart,499.26,Electronics
+2024-02-13,Department store furniture,217.25,Shopping
+2023-06-16,Retail store gifts,127.89,Shopping
+2023-11-11,Specialty shop - sports equipment,116.06,Shopping
+2023-06-24,Phone bill payment,99.19,Utilities
+2023-05-08,Monthly office supplies,60.07,Shopping
+2023-09-29,Utility deposit at Utility company,221.61,Utilities
+2023-08-08,Monthly shoes,75.67,Shopping
+2024-01-11,Theme park - movie tickets,27.72,Entertainment
+2023-09-06,Entertainment center - theater show,96.28,Entertainment
+2023-05-10,Monthly disability insurance,202.18,Insurance
+2023-03-20,Monthly property service,100.19,Housing
+2023-09-18,Property service payment,442.86,Housing
+2023-05-23,Water department cable tv,111.42,Utilities
+2023-03-15,City utilities gas bill,51.31,Utilities
+2023-04-19,Monthly metro card,85.18,Transport
+2023-08-01,Medical test at Pharmacy,295.08,Health
+2023-06-19,Online shop gifts,39.42,Shopping
+2023-12-16,Music streaming at Bookstore,6.93,Entertainment
+2023-11-24,Home decor at Brand store,59.99,Shopping
+2023-01-11,Movie tickets payment,16.34,Entertainment
+2024-01-18,Security deposit from Home service,2785.1,Housing
+2024-02-14,Outlet - accessories,63.7,Shopping
+2023-02-28,Bus ticket from Airport,9.16,Transport
+2023-03-14,Gym membership payment,55.69,Health
+2023-09-02,Tablet payment,249.11,Electronics
+2023-11-11,Lunch at Whole Foods,19.92,Food
+2024-02-15,Monthly disability insurance,164.12,Insurance
+2023-09-01,Online insurance - pet insurance,61.14,Insurance
+2023-03-15,Therapy session from Gym,132.63,Health
+2023-03-17,Monthly snacks,13.07,Food
+2023-02-08,Internet bill from Utility company,55.56,Utilities
+2023-04-06,Whole Foods fast food,16.85,Food
+2023-08-17,Personal care at Department store,63.21,Shopping
+2023-10-03,Wellness center - therapy session,100.4,Health
+2024-01-14,Theater show from Concert hall,132.21,Entertainment
+2024-02-15,Theater show payment,147.63,Entertainment
+2023-11-22,Gaming console from Online store,399.38,Electronics
+2023-01-08,Trader Joe's food delivery,19.74,Food
+2024-02-04,Online store camera,229.63,Electronics
+2023-08-28,Home improvement from Home service,771.53,Housing
+2023-09-02,Therapy session at Dental office,132.49,Health
+2023-12-29,Tablet payment,580.9,Electronics
+2023-02-22,Personal care from Online shop,59.39,Shopping
+2024-02-22,Cable TV payment,53.31,Utilities
+2023-04-23,Dinner from Panera Bread,20.64,Food
+2023-05-31,Tech shop - laptop,1548.59,Electronics
+2023-08-11,Kroger household supplies,51.96,Groceries
+2023-12-10,Best Buy - smart home device,183.48,Electronics
+2023-05-29,Phone bill payment,69.23,Utilities
+2023-01-16,Auto shop uber ride,37.03,Transport
+2023-09-11,Monthly home improvement,605.01,Housing
+2023-10-05,Pet insurance at Insurance provider,41.84,Insurance
+2024-01-18,Local market - fresh produce,63.93,Groceries
+2023-03-02,Home improvement at Apartment complex,245.8,Housing
+2023-02-11,Netflix subscription at Museum,19.36,Entertainment
+2023-03-03,Car insurance payment,199.21,Insurance
+2023-01-31,Monthly dental checkup,273.36,Health
+2023-10-07,Housing authority - repairs,443.52,Housing
+2023-04-10,Internet provider - cable tv,110.92,Utilities
+2023-01-12,Pharmacy - eye exam,138.77,Health
+2023-01-18,HOA fees from Apartment complex,499.62,Housing
+2023-01-31,Monthly health insurance,172.58,Health
+2023-09-09,Snacks and beverages at Kroger,65.82,Groceries
+2023-04-04,Airport car wash,19.4,Transport
+2023-10-16,Online shop - personal care,35.78,Shopping
+2023-02-21,Baby supplies payment,107.7,Groceries
+2023-06-20,Theater show at Stadium,77.01,Entertainment
+2023-08-26,Bulk shopping at Walmart,282.29,Groceries
+2023-04-19,Wellness center dental checkup,315.73,Health
+2023-05-18,Fast food from Pizza Hut,5.71,Food
+2023-06-25,Concert hall theater show,60.56,Entertainment
+2023-05-02,Hospital dental checkup,160.2,Health
+2023-12-19,Monthly rent from Home service,2571.52,Housing
+2023-06-01,Beauty products at Specialty shop,27.74,Shopping
+2024-02-16,Sewer service payment,67.7,Utilities
+2023-12-28,McDonald's coffee shop,17.11,Food
+2023-08-24,Tech shop - tv,985.13,Electronics
+2023-10-20,Netflix subscription at Stadium,17.21,Entertainment
+2023-06-25,Highway - car wash,24.97,Transport
+2023-06-11,Phone bill at Municipal services,63.75,Utilities
+2023-06-15,Life insurance payment,211.38,Insurance
+2024-01-27,Car maintenance from Local station,169.77,Transport
+2023-12-26,Apple Store laptop,1853.94,Electronics
+2023-03-17,Monthly mortgage payment,2631.22,Housing
+2023-05-02,Cinema netflix subscription,16.57,Entertainment
+2023-11-10,Concert tickets payment,168.01,Entertainment
+2023-07-20,Monthly gaming console,316.28,Electronics
+2023-12-04,Beauty products at Brand store,47.25,Shopping
+2023-02-20,Laptop at Amazon,1526.14,Electronics
+2023-11-16,Aldi - meat and dairy,59.95,Groceries
+2023-07-12,Metro card at Downtown,75.09,Transport
+2023-01-23,Household supplies at Local grocery,99.94,Groceries
+2023-06-29,Monthly rent from Real estate office,1498.15,Housing
+2023-03-23,Subway coffee shop,18.94,Food
+2023-02-20,Headphones at Best Buy,252.34,Electronics
+2023-01-20,Monthly fast food,10.02,Food
+2024-01-04,Monthly sports event,52.08,Entertainment
+2023-08-26,Computer accessories from Walmart,191.05,Electronics
+2023-05-25,Monthly energy service,182.18,Utilities
+2023-12-11,Sports event from Theater,92.32,Entertainment
+2023-01-16,City center - parking,20.46,Transport
+2023-04-29,Household supplies at Target,74.03,Groceries
+2023-02-10,Monthly restaurant,75.28,Food
+2023-12-18,Department store clothes,179.56,Shopping
+2023-09-09,Food delivery from Subway,33.05,Food
+2023-11-17,Monthly parking,5.42,Transport
+2023-12-24,Power company gas bill,126.26,Utilities
+2023-07-15,Maintenance payment,351.49,Housing
+2023-01-29,Book purchase payment,13.07,Entertainment
+2023-03-25,Metro card from Highway,97.92,Transport
